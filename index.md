@@ -395,6 +395,7 @@ please preview your site before committing, and make sure to run
   you will need to download the workshop data and install software specific to working with geospatial data in R. You will also need R, RStudio, and some specific R packages. Give yourself plenty of time to download, unzip, and install everything you need.
 </p>
 
+
 {% comment %}
 These are the installation instructions for the tools used
 during the workshop.
@@ -412,6 +413,9 @@ Please check the "Setup" page of
 to obtain the software and data you will need to follow the lesson.
 {% endif %}
 
+<p>
+<strong>Update from the organizers:</strong> If you are following the software installation instructions for macOS, we recommend the Install with Packages (Beginner) method for a local installation. To avoid complications of a local installation, the Docker option works well on macOS. The local installation Homebrew (Advanced) method is not working correctly due to issues with some of the packages called.  
+</p>
 
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
